@@ -1,3 +1,3 @@
 <?php
-	includ_once("irctc_home.html");
+	include_once("irctc_home.html");
 	?>
